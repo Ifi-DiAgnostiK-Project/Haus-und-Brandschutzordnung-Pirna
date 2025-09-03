@@ -1,7 +1,16 @@
 <!--
+author: Andre Dietrich
 language: de
 narrator: Deutsch Female
 mode:     Slides
+version: 0.1.0
+edit: true
+date: 2025-08-20
+title: Haus und Brandschutzordnung BSTZ Pirna
+comment: Berufsbildungs- und Technologiezentrum Pirna
+
+tags: Belehrung
+
 -->
 
 
