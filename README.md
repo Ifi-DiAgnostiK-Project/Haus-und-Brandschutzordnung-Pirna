@@ -19,7 +19,7 @@ tags: Belehrung
 Berufsbildungs- und Technologiezentrum Pirna
 --------------------------------------------
 
-> Hallo liebe Kursteilnehmer, in Vorbereitung unserer gemeinsamen Arbeit werden wir nun zunächst die Ordnungen der Handwerkskammer Dresden gemeinsam durcharbeiten und dabei auf die für diese Veranstaltung zentralen Vorgaben eingehen. Dafür habe ich drei Abschnitte vorgesehen, die wir nun Schritt für Schritt thematisieren. Diese umfasst die Belehrung aber auch allgemeine Hinweise zum Gelände des Ausbildungszentrums. 
+> Hallo liebe Kursteilnehmer, in Vorbereitung unserer gemeinsamen Arbeit werden wir nun zunächst die Ordnungen der Handwerkskammer Dresden gemeinsam durcharbeiten und dabei auf die für diese Veranstaltung zentralen Vorgaben eingehen. Dafür habe ich zwei Abschnitte vorgesehen, die wir nun Schritt für Schritt thematisieren. Diese umfasst die Belehrung aber auch allgemeine Hinweise zum Gelände des Ausbildungszentrums. 
 
 Haus- und Werkstattordnung bezeichnet eine Sammlung von Regeln und Vorschriften, die für das Verhalten und die Nutzung von Räumlichkeiten in einem Gebäude oder einer Werkstatt gelten. Sie legt fest, welche Sicherheitsmaßnahmen einzuhalten sind, welche Verantwortlichkeiten bestehen und welche Verhaltensweisen erwartet werden, um einen geordneten und sicheren Betrieb zu gewährleisten.
 
